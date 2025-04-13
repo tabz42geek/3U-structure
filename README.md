@@ -1,0 +1,1 @@
+The files contain the design and animation of a complete 3U CubeSat whose dimension should be 10 by 10 by 34 cm. A CubeSat is a standard nanosatellite whse mass, dimension and COG specifications are set by the CDS. The files show the design process and animation of making a deployable 3U nanosatellite whose aim is to be an observation LEO nanosatellite
